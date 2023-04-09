@@ -1,7 +1,7 @@
 # Hackoona-Matata
 # WorkConnect
 
-A project to tackle unemployment. Built under 24 hours at Err_404 5.0 Hackathon '23. By Team Voltus 2.0.
+A project to tackle unemployment. Built under Hackoona matata Hackathon '23. By Team Voltus 2.0.
 
 
 Workconnect is a Web based application or online platform that aims to address the issue of unemployment by providing resources and tools for job seekers to find employment opportunities, as well as connecting them with potential employers. It also provides additional resources such as resume building, and personalized job alerts. The goal of the project is to make it easier for job seekers to find employment and to help address the issue of unemployment in the community.
