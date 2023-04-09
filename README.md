@@ -6,8 +6,6 @@ A project to tackle unemployment. Built under Hackoona matata Hackathon '23. By 
 
 Workconnect is a Web based application or online platform that aims to address the issue of unemployment by providing resources and tools for job seekers to find employment opportunities, as well as connecting them with potential employers. It also provides additional resources such as resume building, and personalized job alerts. The goal of the project is to make it easier for job seekers to find employment and to help address the issue of unemployment in the community.
 
-## 🟡PowerPoint Link
-[Canva](https://www.canva.com/design/DAFdmIJXO6Y/LHjXeJcez3XDjIqQz2kMtg/edit?utm_content=DAFdmIJXO6Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🚀 Team
 - [Pranav Kulkarni](https://github.com/pranavkulkarni2905)
