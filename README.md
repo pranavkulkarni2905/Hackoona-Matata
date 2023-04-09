@@ -10,10 +10,9 @@ Workconnect is a Web based application or online platform that aims to address t
 [Canva](https://www.canva.com/design/DAFdmIJXO6Y/LHjXeJcez3XDjIqQz2kMtg/edit?utm_content=DAFdmIJXO6Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🚀 Team
-- [Arya Janjire](https://github.com/aryajanjire)
 - [Pranav Kulkarni](https://github.com/pranavkulkarni2905)
 - [Saurabh Asnare](https://github.com/saurabhasnare)
-- [Vinayak Shete](https://github.com/vinayak182002)
+- [Ritish Shelke](https://github.com/ritish007)
 
 ## 🟡Getting Started
 
